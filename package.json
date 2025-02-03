@@ -1,5 +1,5 @@
 {
-  "name": "sharp",
+  "name": "@godruoyi/sharp-for-raycast",
   "description": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, GIF, AVIF and TIFF images",
   "version": "0.33.5",
   "author": "Lovell Fuller <npm@lovell.info>",
@@ -164,6 +164,7 @@
     "@img/sharp-win32-x64": "0.33.5"
   },
   "devDependencies": {
+    "@raycast/api": "^1.88.4",
     "@emnapi/runtime": "^1.2.0",
     "@img/sharp-libvips-dev": "1.0.6",
     "@img/sharp-libvips-dev-wasm32": "1.0.6",
